@@ -8,7 +8,7 @@ h2 {
     color: black;
     min-width: 250px;
     max-width: 180px;
-    padding-bottom: 4px;
+    padding-top: 10px;
 
 }
 
@@ -45,11 +45,13 @@ a {
 }
 
 .git {
+    background-attachment: fixed;
     border-radius: 50%;
     max-width: 50px;
 }
 
 .insta {
+    background-attachment: fixed;
     border-radius: 50%;
     max-width: 55px;
 }
