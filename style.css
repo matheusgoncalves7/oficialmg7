@@ -1,0 +1,56 @@
+
+@charset "UTF-8";
+h2 {
+    margin: auto;
+    text-align: center;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: black;
+    color: yellow;
+    min-width: 250px;
+    max-width: 180px;
+    border-radius: 5px;
+    padding-bottom: 4px;
+
+}
+
+main {
+    text-align: center;
+    margin: auto;  
+    min-width: 250px;
+    max-width: 830px;
+    height: 430px;
+}
+
+.imagem {
+    margin: auto;
+    border-radius: 50%; 
+    width:140px; 
+    height: 140px;
+ 
+}
+
+.calc {
+    margin: auto;
+    background-color: gray;
+    min-width: 250px;
+    max-width: 90px;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+    font-style: italic;
+}
+
+a {
+    color: black;
+}
+
+.git {
+    border-radius: 50%;
+    max-width: 50px;
+}
+
+.insta {
+    border-radius: 50%;
+    max-width: 55px;
+}
