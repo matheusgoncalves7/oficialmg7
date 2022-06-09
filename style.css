@@ -32,6 +32,29 @@ main {
  
 }
 
+
+.projeto {
+    color: white;
+    font-size: 19pt;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.projeto {
+    animation: float 4s ease-in-out infinite;
+}
+
+@keyframes float{
+0%{
+    transform: translateY(0);
+} 
+50%{
+    transform: translateY(25px);
+}
+100%{
+    transform: translateY(0);
+}
+}
+
 .calc {
     margin: auto;
     background-color: #21262d;
